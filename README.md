@@ -12,3 +12,5 @@ __Design, prototype, and collaborate all in the browser—with Figma.__: https:/
 __Debug APIs like a human, not a robot__: https://insomnia.rest/
 
 [Hand-picked HTML and CSS code examples, tutorials and articles](https://freefrontend.com/)
+
+[Cool Backgrounds](https://coolbackgrounds.io/)
