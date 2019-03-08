@@ -10,3 +10,5 @@ __Visualize your cloud architecture like a pro / Create smart AWS diagrams__: ht
 __Design, prototype, and collaborate all in the browser—with Figma.__: https://www.figma.com/
 
 __Debug APIs like a human, not a robot__: https://insomnia.rest/
+
+[Hand-picked HTML and CSS code examples, tutorials and articles](https://freefrontend.com/)
