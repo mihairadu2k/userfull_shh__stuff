@@ -14,3 +14,5 @@ __Debug APIs like a human, not a robot__: https://insomnia.rest/
 [Hand-picked HTML and CSS code examples, tutorials and articles](https://freefrontend.com/)
 
 [Cool Backgrounds](https://coolbackgrounds.io/)
+
+[Dj Channels Tutorial](https://www.tutorialdocs.com/)
