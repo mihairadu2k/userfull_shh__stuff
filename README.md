@@ -16,3 +16,5 @@ __Debug APIs like a human, not a robot__: https://insomnia.rest/
 [Cool Backgrounds](https://coolbackgrounds.io/)
 
 [Dj Channels Tutorial](https://www.tutorialdocs.com/)
+
+[Dj Tips for working with databases](https://python.works-hub.com/learn/9-django-tips-for-working-with-databases-f48d8?utm_source=reddit&utm_medium=organicsocial&utm_campaign=j.kaplan)
